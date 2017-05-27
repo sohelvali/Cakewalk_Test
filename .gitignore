@@ -1,2 +1,5 @@
-# Exclude DLL files.
+# Exclude Folders.
 node_modules
+web/js/bundle.js
+web/js/vendors.js
+web/js
